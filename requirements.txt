@@ -1,0 +1,6 @@
+numpy
+plyfile
+pylas
+scipy
+torch==2.0.1
+tqdm
