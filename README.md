@@ -2,7 +2,7 @@
 Scene L004.ply from [Toronto3D dataset](https://github.com/WeikaiTan/Toronto-3D) is used.
 
 # Vis
-![](images/curb_segmented.png) 
+![](utils/l4.jpg) 
 
 # Method
 1. Load .ply file
