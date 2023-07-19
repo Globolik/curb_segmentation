@@ -1,8 +1,10 @@
 # Curb segmentation from point cloud
 Scene L004.ply from [Toronto3D dataset](https://github.com/WeikaiTan/Toronto-3D) is used.
 
-# Method
+# Vis
+![](images/curb_segmented.png) 
 
+# Method
 1. Load .ply file
 2. Sort point to get consecutive points
 3. Select points that are close on XY plane and far on Z axis
