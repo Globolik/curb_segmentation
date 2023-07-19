@@ -6,7 +6,7 @@ Scene L004.ply from [Toronto3D dataset](https://github.com/WeikaiTan/Toronto-3D)
 1. Load .ply file
 2. Sort point to get consecutive points
 3. Select points that are close on XY plane and far on Z axis
-4. From previous points select poinst that have theta angle less that MAX_ANGLE and some elevation
+4. From previous points select only those who have theta angle less that MAX_ANGLE and some elevation
    see [link](https://www.ri.cmu.edu/app/uploads/2019/06/FINAL-VERSION-TITS2018.pdf) for more details
 5. Save result in .las file
 
