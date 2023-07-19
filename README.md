@@ -11,13 +11,13 @@ Scene L004.ply from [Toronto3D dataset](https://github.com/WeikaiTan/Toronto-3D)
 5. Save result in .las file
 
 # Requirements
-Python 3.8.10
-numpy
-plyfile
-pylas
-scipy
-torch==2.0.1
-tqdm
+- Python 3.8.10
+- numpy
+- plyfile
+- pylas
+- scipy
+- torch==2.0.1
+- tqdm
 
 # Installation
 
